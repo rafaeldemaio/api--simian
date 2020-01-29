@@ -1,0 +1,15 @@
+runtime: java11
+instance_class: F4
+#runtime: java
+#env: flex
+#threadsafe: true
+
+  #runtime_config:  # Optional
+#jdk: openjdk8
+
+  #handlers:
+  #- url: /
+#  script: this field is required, but ignored
+
+  #resources:
+#memory_gb: 2.0
