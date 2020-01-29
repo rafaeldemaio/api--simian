@@ -10,10 +10,10 @@
 	</parent>
 
 	<groupId>com.mercadolivre.desafio</groupId>
-	<artifactId>api--simio</artifactId>
+	<artifactId>api--simian</artifactId>
 	<version>1.0.0</version>
-	<name>api--simio</name>
-	<description>Simio Project</description>
+	<name>api--simian</name>
+	<description>Simian Project</description>
 
 	<properties>
 		<java.version>1.8</java.version>
